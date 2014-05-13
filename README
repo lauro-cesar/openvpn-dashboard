@@ -1,1 +1,8 @@
-Teste de teste
+Just a frontend made with Extjs to manage multiples OpenVPN servers.
+
+We use a small python webserver to write into openvpn conf files and start/stop services, also, to make more usefull, we use a ssh connector,
+allowing backend setup and manage multiples servers spread around internet.
+  
+
+
+
